@@ -34,7 +34,8 @@ const char *default_config = QUOTE({
 			"type" : "string",
 			"default" : "Vibration",
 			"order": "1",
-			"displayName": "Asset Name"
+			"displayName": "Asset Name",
+			"mandatory": "true"
 			},
 		"datapoint" : {
 			"description" : "Datapoint name/prefix",
