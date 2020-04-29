@@ -1,5 +1,5 @@
 .. Images
-.. |csv_1| image:: images/csv_01.jpg
+.. |csv_1| image:: images/csv_1.jpg
 
 Simple CSV Plugin
 =================
