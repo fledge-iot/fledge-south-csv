@@ -22,7 +22,7 @@ using namespace std;
 
 #define PLUGIN_NAME "Csv"
 
-const char *default_config = QUOTE({
+static const char *default_config = QUOTE({
 		"plugin" : {
 			"description" : PLUGIN_NAME,
 			"type" : "string",
